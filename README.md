@@ -14,4 +14,6 @@ Data is still being anonymized to protect Georgetown University student and staf
 
 For practical purposes, all visualization is done using Tableau 2020. This was done for ease of ditribution to Writing Center management, as well as to onboard my collaborator as easily as possible. 
 
-Our first iteration of the analysis focused on top-line metrics important to the Writing Center, such as appointment visitations, as well as valuable demographic insights such as client's first language.
+Our first iteration of the analysis focused on top-line metrics important to the Writing Center, such as appointment visitations, as well as valuable demographic insights such as client's first language. This presentation can be found [here]. 
+
+[here]: https://docs.google.com/presentation/d/1Yn7pr302tnqr5H0UzcD54fqC35ga0L4NL2PtyZw7ZG0/edit?usp=sharing
