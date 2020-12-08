@@ -4,7 +4,7 @@ This project was undertaken primarily to better understand and visualize the top
 
 ## Data & Processing
 
-Obtained data from myWCOnline's internal system statistics feature, which loads a csv file directly to a your local machine. Cleaned data tables primairly using dplyr, with some work done using the sqldf, package, both within R. This work can be found in the 'WC Data Prep' file
+Obtained data from myWCOnline's internal system statistics feature, which loads a csv file directly to a your local machine. Cleaned data tables primairly using dplyr, with some work done using the sqldf, package, both within R. This work can be found in the various \[datafile name]\_cleaning.R' files
 
 One particular issue of note would be the process by which I processed the 'client goals column.' As this column was a complex data structure, with both categories and counts of goals worked on within the session rolled into one variable, its separation was placed into a separate file named 'Analysis'
 
